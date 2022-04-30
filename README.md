@@ -1,4 +1,6 @@
-### Hi there 👋
+### Enginner in Renewable Energy 🌱, booklover 📖 and a Hufflepuff student 💛
+### (She/her)
+### "I´m a simple person who just likes long walks in the book aisle"
 
 <!--
 **SABRIS13/SABRIS13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
