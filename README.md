@@ -1,6 +1,6 @@
 ### Enginner in Renewable Energy 🌱, booklover 📖 and a Hufflepuff student 💛
 ### (She/her)
-### 🌱 I’m currently learning to program in Phyton.
+### ✨ I’m currently learning to program in Phyton.
 
 <!--
 **SABRIS13/SABRIS13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
