@@ -1,8 +1,19 @@
-### Enginner in Renewable Energy 🌱, booklover 📖 and a Hufflepuff student 💛
+## ✨Hello!
+### About me
+
+###### My name is Sabrina (She/Her)
+###### I´m a Enginner in Renewable Energy 🌱 
+###### Currently learning to program in Phyton.
+###### Soon to be a Data Scientist
 ---
-### (She/her)
-### ✨ I’m currently learning to program in Phyton.
-***
+### Programs
+###### Python
+
+---
+### Fun facts
+###### *Booklover :book:
+###### *Cat mom :smile_cat:
+###### :cherry_blossom: :tulip::sunflower: :hibiscus: :rose::blossom:
 
 <!--
 **SABRIS13/SABRIS13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
