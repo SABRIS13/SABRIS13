@@ -5,12 +5,12 @@
 ###### I´m a Enginner in Renewable Energy 🌱 
 ###### Currently learning to program in Phyton.
 ###### Soon to be a Data Scientist
----
-### Programs
+
+## Programs
 ###### Python
 
----
-### :blossom: Fun facts
+
+## :blossom: Fun facts
 ###### *Booklover :book:
 ###### 
 
