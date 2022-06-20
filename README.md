@@ -2,7 +2,7 @@
 
 ### About me
 
-###### :rose: My name is Sabrina Contreras, I´m a student in DEV.F in the Professional in Data Science/AI.
+###### :rose: My name is Sabrina Contreras, I´m a student at DEV.F in the Professional in Data Science/AI.
 
 ## Programs
 ###### :pushpin:Python
