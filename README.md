@@ -1,21 +1,19 @@
-## ✨Hello!
+## Engineer in Renewable Energy 🌱  | Data Scientist :chart_with_upwards_trend: | Mexican-American :round_pushpin:
+
 ### About me
 
-###### My name is Sabrina (She/Her)
-###### I´m a Enginner in Renewable Energy 🌱 
-###### Currently learning to program in Phyton.
-###### Soon to be a Data Scientist
+###### :rose: My name is Sabrina Contreras, I´m a student in DEV.F in the Professional in Data Science/AI.
 
-## 🌐Programs
-###### Python
+## Programs
+###### :pushpin:Python
 
 
-## :blossom: Fun facts
-###### *Booklover :book:
+## Fun facts
+###### :notebook_with_decorative_cover:Booklover 
 ###### 
 
----
-#### :cherry_blossom: :tulip::sunflower: :hibiscus: :rose::blossom: :cherry_blossom: :tulip::sunflower: :hibiscus: :rose::blossom::cherry_blossom: :tulip::sunflower: :hibiscus: :rose::blossom::cherry_blossom: :tulip::sunflower: :hibiscus: :rose::blossom::cherry_blossom: :tulip::sunflower: :hibiscus: :rose::blossom::cherry_blossom: :tulip::sunflower: :hibiscus: :rose::blossom::cherry_blossom: :tulip::sunflower: 
+
+
 
 
 
