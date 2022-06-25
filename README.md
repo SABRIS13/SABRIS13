@@ -1,14 +1,13 @@
 <h2 align="center"> Engineer in Renewable Energy 🌱  | Data Scientist :chart_with_upwards_trend: | Mexican-American :round_pushpin: </h2>
 
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SABRIS13&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SABRIS13&layout=compact&langs_count=7&theme=vue"/>
-</div>
-
 ## About me :rose: 
 <p> My name is Sabrina Contreras, I´m a student at DEV.F in the Professional in Data Science/AI. <br> 
 </p>
 
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SABRIS13&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SABRIS13&layout=compact&langs_count=7&theme=vue"/>
+</div>
 
   <h2> Contributions </h2>
   
