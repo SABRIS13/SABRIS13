@@ -1,7 +1,8 @@
 <h2 align="center"> Engineer in Renewable Energy 🌱  | Data Scientist :chart_with_upwards_trend: | Mexican-American :round_pushpin: </h2>
 
 <h3> About me :rose: </h3>
-My name is Sabrina Contreras, I´m a student at DEV.F in the Professional in Data Science/AI.
+<p> My name is Sabrina Contreras, I´m a student at DEV.F in the Professional in Data Science/AI. <br> 
+</p>
 
 <div align="center">
   <img  align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=SABRIS13&show_icons=true&count_private=true&theme=swift">
