@@ -1,6 +1,6 @@
 <h2 align="center"> Engineer in Renewable Energy 🌱  | Data Scientist :chart_with_upwards_trend: | Mexican-American :round_pushpin: </h2>
 
-## About me :rose: 
+## About me :notebook_with_decorative_cover: 
 <p> My name is Sabrina Contreras, I´m a student at DEV.F in the Professional in Data Science/AI. <br> 
 </p>
 
@@ -9,14 +9,14 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SABRIS13&layout=compact&langs_count=7&theme=vue"/>
 </div>
 
-<h2>Contact me  </h2> 
+## Contact me :mailbox_with_mail:
 
-<div align="center">
- <a href="www.linkedin.com/in/sabrina-contreras-13s196962" target="_blank"><img height="30em" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" target="_blank"></a> 
-<a href = "mailto:sabriscon1307@gmail.com"><img height="30em" src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" target="_blank"></a>
+<div align="left">
+<a href = "mailto:sabriscon1307@gmail.com"><img height="45em" src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" target="_blank"></a>
+  <a href="www.linkedin.com/in/sabrina-contreras-13s196962" target="_blank"><img height="45em" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" target="_blank"></a> 
 </div>
 
-  <h2> Contributions </h2>
+ ## Contributions:clipboard:
   
 ![snake gif](https://github.com/SABRIS13/SABRIS13/blob/output/github-contribution-grid-snake.gif)
 
