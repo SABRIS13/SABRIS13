@@ -5,8 +5,8 @@
 </p>
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SABRIS13&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SABRIS13&layout=compact&langs_count=7&theme=vue"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SABRIS13&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SABRIS13&layout=compact&langs_count=7&theme=graywhite"/>
 </div>
 
 ## Contact me :mailbox_with_mail:
