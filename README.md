@@ -4,7 +4,7 @@
 <p align="center"> My name is Sabrina Contreras, I´m a student at DEV.F in the Professional in Data Science/AI and at Codigo Bits. <br> 
 </p>
   <li>I’m constantly learning 📔 </li> 
-  <li>here you can find my school and personal projects ✨ </li>
+  <li>Here you can find my school and personal projects ✨ </li>
   <li>I´m looking forward to connect with new people in IT 🌎</li>
   <li>Interested in Databases 💾 </li>
   
