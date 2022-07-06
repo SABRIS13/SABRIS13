@@ -1,7 +1,7 @@
 <h2 align="center"> Engineer in Renewable Energy 🌱  | Data Scientist :chart_with_upwards_trend: | Mexican-American :round_pushpin: </h2>
 
 <h3 align="center"> About me 🌹 </h3> 
-<p align="center"> My name is Sabrina Contreras, I´m a student at DEV.F in the Professional in Data Science/AI aand at Codigo Bits. <br> 
+<p align="center"> My name is Sabrina Contreras, I´m a student at DEV.F in the Professional in Data Science/AI and at Codigo Bits. <br> 
 </p>
   <li>I’m constantly learning 📔 </li> 
   <li>here you can find my school and personal projects ✨ </li>
