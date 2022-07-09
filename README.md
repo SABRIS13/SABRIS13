@@ -9,17 +9,7 @@
   <li>Interested in Databases 💾 </li>
   
   <h2> </h2>
-  const themes = {
-  berry: {
-    title_color: "000000",
-    icon_color: "ca0147",
-    text_color: "000000",
-    bg_color: "ffffff",
-    border_color: "ffffff",
-  }
-;
-module.exports = themes;
-
+ 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SABRIS13&show_icons=true&theme=berry&include_all_commits=true&count_private=true"/>
   <img  height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=sabris13&theme=berry&" alt="sabris13" />
@@ -57,6 +47,18 @@ module.exports = themes;
 
 **SABRIS13/SABRIS13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <div align="center">
+
+const themes = {
+  berry: {
+    title_color: "000000",
+    icon_color: "ca0147",
+    text_color: "000000",
+    bg_color: "ffffff",
+    border_color: "ffffff",
+  }
+;
+module.exports = themes;
+
 
 Here are some ideas to get you started:
 
