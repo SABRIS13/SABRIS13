@@ -4,7 +4,7 @@
 <h2 align="center"> About me 🌹 </h2>
 
 
-   <img height="150em" align="right" src="https://github-readme-stats.vercel.app/api?username=SABRIS13&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
+   <img height="150em" align="right" src="https://github-readme-stats.vercel.app/api?username=SABRIS13&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
 <p align="left"> My name is Sabrina Contreras, I´m a student at DEV.F in the Professional in Data Science/AI and at Codigo Bits. <br> 
 </p>
   <li>I’m constantly learning 📔 </li> 
