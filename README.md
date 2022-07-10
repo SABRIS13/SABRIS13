@@ -27,7 +27,7 @@
 
 
 <div align="center">
-  <img  height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SABRIS13&layout=compact&langs_count=7&theme=flag-india"/>
+  <img  height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SABRIS13&layout=compact&langs_count=7&theme=buefy"/>
   <img  height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=sabris13&theme=swift" alt="sabris13" />
   
 </div>
