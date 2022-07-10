@@ -14,6 +14,9 @@
 
 </div>
 
+<h2 align="center"> Contributions 📈 </h2>
+  
+![snake gif](https://github.com/SABRIS13/SABRIS13/blob/output/github-contribution-grid-snake.gif)
 
 <h2 align="center"> Skills ⚙️ </h2>
 <div>
@@ -39,12 +42,6 @@
 </div>
 
 
-<h2 align="center"> Contributions 📈 </h2>
-  
-![snake gif](https://github.com/SABRIS13/SABRIS13/blob/output/github-contribution-grid-snake.gif)
-
-
- 
 
 
 <!--
