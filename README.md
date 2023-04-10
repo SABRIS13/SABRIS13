@@ -5,8 +5,8 @@
 
 
    <img height="150em" align="right" src="https://github-readme-stats.vercel.app/api?username=SABRIS13&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-<p align="left"> My name is Sabrina Contreras, I´m a student at DEV.F in the Professional in Data Science/AI and at ONE New Education (Alura Latam and Oracle).<br>
-Formal student at Codigo Bits. <br> 
+<p align="left"> My name is Sabrina Contreras, I´m a student at DEV.F in the Master in Data Science/AI and Google Career Certificates in INROADS (Data Analytics and Project Managment).<br>
+Formal student at Codigo Bits and ONE New Education (Alura Latam and Oracle . <br> 
 </p>
   <li>I’m constantly learning 📔 </li> 
   <li>Here you can find my school and personal projects ✨ </li>
