@@ -2,7 +2,7 @@
 
 <div>
 <h2 align="center"> About me 🌹 </h2>
-
+ <img height="150em" align="right" src="https://github-readme-stats.vercel.app/api?username=SABRIS13&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
 <p align="left"> My name is Sabrina Contreras, I´m a student at DEV.F in the Master in Data Science/AI and Google Career Certificates in INROADS (Data Analytics and Project Managment).<br>
 Formal student at Codigo Bits and ONE New Education (Alura Latam and Oracle . <br> 
 </p>
@@ -16,6 +16,12 @@ Formal student at Codigo Bits and ONE New Education (Alura Latam and Oracle . <b
 <h2 align="center"> Contributions 📈 </h2>
   
 ![snake gif](https://github.com/SABRIS13/SABRIS13/blob/output/github-contribution-grid-snake.gif)
+
+<div align="center">
+  <img  height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SABRIS13&hide_progress=true">
+  <img  height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=SABRIS13&theme=blueberry-duo&theme=transparent" alt="sabris13" />
+  
+</div>
 
 <h2 align="center"> Skills ⚙️ </h2>
 <div align="center">
