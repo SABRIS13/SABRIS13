@@ -2,7 +2,8 @@
 
 <div>
 <h2 align="center"> About me 🌹 </h2>
- <img height="150em" align="right" src="https://github-readme-stats.vercel.app/api?username=SABRIS13&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+<img height="150em" align="right"" src="https://github-readme-stats.vercel.app/api?username=sabris13&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" alt="sabris13" />
+
 <p align="left"> My name is Sabrina Contreras, I´m a Data Scientist that works in Ford Motor Company as a Connected Data Engineer.
 Formal student at Codigo Bits, ONE New Education (Alura Latam and Oracle) and DEV.F in the Master in Data Science/AI . <br> 
 </p>
