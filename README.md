@@ -3,11 +3,11 @@
 <div>
 <h2 align="center"> About me 🌹 </h2>
  <img height="150em" align="right" src="https://github-readme-stats.vercel.app/api?username=SABRIS13&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-<p align="left"> My name is Sabrina Contreras, I´m a student at DEV.F in the Master in Data Science/AI and Google Career Certificates in INROADS (Data Analytics and Project Managment).<br>
-Formal student at Codigo Bits and ONE New Education (Alura Latam and Oracle . <br> 
+<p align="left"> My name is Sabrina Contreras, I´m a Data Scientist that works in Ford Motor Company as a Connected Data Engineer.
+Formal student at Codigo Bits, ONE New Education (Alura Latam and Oracle) and DEV.F in the Master in Data Science/AI . <br> 
 </p>
-  <li>I’m constantly learning 📔 </li> 
-  <li>Here you can find my school and personal projects ✨ </li>
+  <li>I’m constantly learning 📔: Currently taking the Project Managment Google Career Certificates in INROADS.<br> </li> 
+  <li>Here you can find my school and personal projects ✨:<a href="sabris13.github.io/Sabrina_Contreras/" style="text-decoration: none"> Portafolio </a> </li>
   <li>I´m looking forward to connect with new people in IT 🌎</li>
   <li>Interested in Databases 💾 </li>
 
